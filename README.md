@@ -1,11 +1,17 @@
 <a name="readme-top"></a>
 
-## 📗 Table of Contents
+[![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![License][license-shield]][license-url]
+
+<details>
+  <summary>Table of Contents</summary>
 
 - [💎 Awesome Project](#-awesome-project)
-  - [🛠 Built With](#-built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
+  - [📸 Screenshot](#-screenshot)
+  - [🧰 Tech Stack](#-tech-stack)
+  - [✨ Key Features](#-key-features)
   - [🚀 Live Demo](#-live-demo)
   - [💻 Getting Started](#-getting-started)
     - [Prerequisites](#prerequisites)
@@ -20,7 +26,7 @@
   - [💖 Show your support](#-show-your-support)
   - [🙏 Acknowledgments](#-acknowledgments)
   - [📜 License](#-license)
-
+</details>
 
 # 💎 Awesome Project
 
@@ -28,9 +34,13 @@
 
 This is a template for **Ruby** projects.
 
-## 🛠 Built With
+## 📸 Screenshot
 
-### Tech Stack
+<img src="https://via.placeholder.com/468x300?text=App+Screenshot+Here" width=468 height=300 alt="screenshot" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🧰 Tech Stack
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
@@ -55,8 +65,9 @@ This is a template for **Ruby** projects.
   </ul>
 </details>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Key Features
+## ✨ Key Features
 
 > Describe between 1-3 key features of the application.
 
@@ -208,3 +219,14 @@ I would like to thank all code reviewers for making this project better.
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/indiecodermm/ruby-template
+[contributors-url]: https://github.com/indiecodermm/ruby-template/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/indiecodermm/ruby-template
+[stars-url]: https://github.com/indiecodermm/ruby-template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/indiecodermm/ruby-template
+[issues-url]: https://github.com/indiecodermm/ruby-template/issues
+[license-shield]: https://img.shields.io/github/license/indiecodermm/ruby-template
+[license-url]: https://github.com/indiecodermm/ruby-template/blob/main/LICENSE
